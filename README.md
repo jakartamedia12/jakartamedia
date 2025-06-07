@@ -140,8 +140,8 @@
             <h2>kesimpulan</h2>
             <p>JAKARTACASH berhasil memadukan teknologi modern, inovasi game online, dan informasi berkualitas dalam satu platform. Baik Anda pemain pemula maupun profesional, situs ini menyediakan semua yang dibutuhkan untuk bermain dengan percaya diri, cerdas, dan menyenangkan..</p>
         </section>
-            </main>
-    <footer>
+</main>
+<footer>
     <div class="container">
         <div class="footer-text">&copy;2025 <a href="https://jakartamedia12.github.io/jakartamedia/beritajakarta.html">Jakarta Daily News</a>. All Rights Reserved. 18+</div>
     </div>
