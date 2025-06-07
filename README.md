@@ -155,10 +155,10 @@
             <h2>kesimpulan</h2>
             <p>JAKARTACASH berhasil memadukan teknologi modern, inovasi game online, dan informasi berkualitas dalam satu platform. Baik Anda pemain pemula maupun profesional, situs ini menyediakan semua yang dibutuhkan untuk bermain dengan percaya diri, cerdas, dan menyenangkan..</p>
         </section>
-    </main>
 
-    <!-- Footer -->
     <footer>
+         <div>
         <p>&copy; 2025 Berita-JAKARTACASH. Semua Hak Cipta Dilindungi.</p>
+         </div>
     </footer>
 
