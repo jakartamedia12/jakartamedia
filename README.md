@@ -142,7 +142,8 @@
         </section>
             </main>
     <footer>
-        <p>&copy; 2025 Berita-growinglory00. Semua Hak Cipta Dilindungi.</p>
-    </footer>
-</body>
+    <div class="container">
+        <div class="footer-text">&copy;2025 <a href="https://jakartamedia12.github.io/jakartamedia/beritajakarta.html">Jakarta Daily News</a>. All Rights Reserved. 18+</div>
+    </div>
+</footer>
 </html>
